@@ -1,0 +1,140 @@
+C:\Users\luna_\Desktop\Clase 7\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\luna_\Desktop\Clase 7\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luna_\Desktop\Clase 7\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\luna_\Desktop\Clase 7\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\luna_\Desktop\Clase 7\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\luna_\Desktop\Clase 7\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luna_\Desktop\Clase 7\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\appsettings.json
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\Api.exe
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\Api.deps.json
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\Api.dll
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\Api.pdb
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\Npgsql.dll
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luna_\Desktop\Clase 7\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luna_\Desktop\Clase 7\Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luna_\Desktop\Clase 7\Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luna_\Desktop\Clase 7\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+C:\Users\luna_\Desktop\Clase 7\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+C:\Users\luna_\Desktop\Clase 7\Api\obj\Debug\net6.0\Api.dll
+C:\Users\luna_\Desktop\Clase 7\Api\obj\Debug\net6.0\refint\Api.dll
+C:\Users\luna_\Desktop\Clase 7\Api\obj\Debug\net6.0\Api.pdb
+C:\Users\luna_\Desktop\Clase 7\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+C:\Users\luna_\Desktop\Clase 7\Api\obj\Debug\net6.0\ref\Api.dll
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\appsettings.json
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\Api.exe
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\Api.deps.json
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\Api.dll
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\Api.pdb
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\Npgsql.dll
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luna_\Desktop\Backend\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luna_\Desktop\Backend\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\luna_\Desktop\Backend\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luna_\Desktop\Backend\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\luna_\Desktop\Backend\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\luna_\Desktop\Backend\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\luna_\Desktop\Backend\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luna_\Desktop\Backend\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luna_\Desktop\Backend\Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luna_\Desktop\Backend\Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luna_\Desktop\Backend\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+C:\Users\luna_\Desktop\Backend\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+C:\Users\luna_\Desktop\Backend\Api\obj\Debug\net6.0\Api.dll
+C:\Users\luna_\Desktop\Backend\Api\obj\Debug\net6.0\refint\Api.dll
+C:\Users\luna_\Desktop\Backend\Api\obj\Debug\net6.0\Api.pdb
+C:\Users\luna_\Desktop\Backend\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+C:\Users\luna_\Desktop\Backend\Api\obj\Debug\net6.0\ref\Api.dll
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\appsettings.json
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\Api.exe
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\Api.deps.json
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\Api.dll
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\Api.pdb
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\Npgsql.dll
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\obj\Debug\net6.0\Api.dll
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\obj\Debug\net6.0\refint\Api.dll
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\obj\Debug\net6.0\Api.pdb
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+C:\Users\luna_\Desktop\Clase 10\Backend\Api\obj\Debug\net6.0\ref\Api.dll
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\appsettings.json
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\Api.exe
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\Api.deps.json
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\Api.dll
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\Api.pdb
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\Npgsql.dll
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\obj\Debug\net6.0\Api.dll
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\obj\Debug\net6.0\refint\Api.dll
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\obj\Debug\net6.0\Api.pdb
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+C:\Users\tom\Desktop\Clases PROG III\Clase 10\Backend\Api\obj\Debug\net6.0\ref\Api.dll
